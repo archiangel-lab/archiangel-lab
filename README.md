@@ -14,7 +14,6 @@ a beginner Frontend Developer and Interior Designer from Poland<br>
 
 - 📫 How to reach me **archiangel809@gmail.com**
 
-
 <h2 align="left">Find me around the web 🌎:
 </h2>
 <p align="left">
