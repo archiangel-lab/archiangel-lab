@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angelika </h1> 
+<h1 align="center">Hi 👋, I'm Angelika</h1> 
 
 <h2 align="center">
 a beginner Frontend Developer and Interior Designer from Poland<br>
@@ -10,7 +10,7 @@ a beginner Frontend Developer and Interior Designer from Poland<br>
 
 - 🌱 I’m currently learning on the **YouCode course**
 
-- 👯 I’m looking to collaborate on [Currency-conventer](link)
+- 👯 I’m looking to collaborate on [Currency-conventer](https://archiangel-lab.github.io/currency-conventer/)
 
 - 📫 How to reach me **archiangel809@gmail.com**
 
