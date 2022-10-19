@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angelika</h1> 
 
 <h2 align="center">
-a beginner Frontend Developer and Interior Designer from Poland<br>
+a beginner Frontend Developer and Interior Designer<br>
 <img src="https://raw.githubusercontent.com/archiangel-lab/homepage/main/images/laptop%20wave.png" alt="drawing" width="350"/>
 </h2>
 
