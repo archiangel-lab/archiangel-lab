@@ -6,7 +6,7 @@ a beginner Frontend Developer and Interior Designer<br>
 </h2>
 
 
-- 🔭 I’m currently working on my first website [Homepage](https://archiangel-lab.github.io/homepage/)
+- 🔭 I’m currently working on my first website [Homepage](https://archiangel-lab.github.io/homepage/) & [to-do list](https://archiangel-lab.github.io/-to-do-list/)
 
 - 🌱 I’m currently learning on the **YouCode course**
 
